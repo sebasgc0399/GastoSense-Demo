@@ -87,10 +87,10 @@ Las claves BYOK se guardan en Secret Manager. Pagos se procesan vía Wompi y se 
 
 ```mermaid
 flowchart LR
-  UI[Web App React] --> Auth[Firebase Auth]
-  UI --> DB[Firestore]
-  UI --> CF[Firebase Functions (Node.js)]
-  CF --> AI[OpenAI]
-  CF --> Pay[Wompi]
-  CF --> Secrets[Secret Manager]
+  UI["Web App React"] --> Auth["Firebase Auth"]
+  UI --> DB["Firestore"]
+  UI --> CF["Firebase Functions (Node.js)"]
+  CF --> AI["OpenAI"]
+  CF --> Pay["Wompi"]
+  CF --> Secrets["Secret Manager"]
 
