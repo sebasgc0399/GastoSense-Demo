@@ -93,3 +93,4 @@ flowchart LR
   CF --> AI[OpenAI]
   CF --> Pay[Wompi]
   CF --> Secrets[Secret Manager]
+
