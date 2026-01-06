@@ -29,7 +29,7 @@ GastoSense está pensado para personas que quieren control rápido de su dinero 
 ---
 
 ## Demo
-[Ver video](assets/videos/video-demoV01.mp4)
+[[Ver video](assets/videos/video-demoV01.mp4)](https://github.com/user-attachments/assets/2b1ec241-349e-4b7e-9f1c-c448febb80f7)
 
 ### Videos (25–60s)
 - Login + Google Auth (25-40s) - [Ver video](assets/videos/01-login.mp4)
